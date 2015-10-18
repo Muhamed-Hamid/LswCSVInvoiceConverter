@@ -1,0 +1,7 @@
+*.xlsx
+.idea
+*.csv
+.~
+.~lock.*
+__pycache__/
+test.py
